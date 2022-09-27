@@ -1,5 +1,9 @@
 from random import choice
 
+print("\n" + '*' * 33 + "\n")
+print("BIENVENIDO AL JUEGO DEL AHORCADO")
+print("\n" + '*' * 33 + "\n")
+
 palabra = ["lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo"]
 letras_correctas = []
 letras_incorrectas = []
